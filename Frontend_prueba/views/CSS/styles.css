@@ -1,0 +1,33 @@
+#main {
+    margin-top: 100px;
+}
+.card {
+    max-height: 350px;
+}
+
+ul.ui-autocomplete {
+    color: black !important;
+    padding-top: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 5px;
+    opacity: 0.9;
+    position: fixed;
+    background: #f8f9fa;
+    opacity: 0.9;
+    
+}
+
+#ui-id-14{
+    margin-top: 10px;
+}
+
+.form2 {
+    margin-top: 60px;
+}
+
+.card-header {
+    text-align: center;
+}
+.card-body {
+    overflow: auto;
+}
